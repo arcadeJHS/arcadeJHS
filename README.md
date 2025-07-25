@@ -5,6 +5,3 @@
 
 ### Public Key:  
 [https://github.com/arcadeJHS/arcadeJHS/blob/main/gpg_public_key.asc](https://github.com/arcadeJHS/arcadeJHS/blob/main/gpg_public_key.asc)
-
-### Signature for my .pdf CV (updated to 2025.07.24):  
-[https://github.com/arcadeJHS/arcadeJHS/blob/main/piazza_matteo_cv.pdf.asc](https://github.com/arcadeJHS/arcadeJHS/blob/main/piazza_matteo_cv.pdf.asc)
